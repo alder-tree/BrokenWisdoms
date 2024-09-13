@@ -53,7 +53,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Intimacy healing
         - The artificial and synthetic
         - AI
-      - Niaz Abdolrahim (okay, some more not-tragedy)
+      - Niaz Abdolrahim (okay, some not-tragedy)
       - Chris Kanan
       - Tom Howard
       - Charles Venuto
