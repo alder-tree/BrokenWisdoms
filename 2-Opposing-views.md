@@ -560,11 +560,13 @@ I didn’t eat steak, because of course they couldn’t afford it. Could you ima
 
 #### Kids
 
+<!--
 Let's now regress back to childhood.
 
 Many of the problems that exist in hospitals also exist in public and private education systems. Kids are being put through concentration camps. These environments should be more like summer camps, monasteries, or Hogwarts — filled with nature and healthy food — not Nazi prisons. Literally concentration camps is what our society puts kids through, pretty much by force, as if it's some law of nature that kids must endure a coercive system by the time they're 6, and give the best hours of the day to that system until they're dead, in order to facilitate their development of wisdom and utility to other people (as opposed to stress, bullying, and hurting other people through more such endless cycles of coercive systemic brainwashings and zombie-ism).
 
 Those environments are where we learn that some people are inferior to others, namely, students, to teachers and adults, with potentially permanent life-threatening consequences. And those structures disseminate to the relationships between kids.
+-->
 
 > [!NOTE]
 > ### Mobi
@@ -573,6 +575,9 @@ Those environments are where we learn that some people are inferior to others, n
 
 #### Future hair losses
 
+> Chapter is in progress
+
+<!--
 My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
 - That hair grew back already in the period when Chenliang’s group was reasonably impressed with me (which never concluded, I don't think), though I was working too hard and exercising too many disciplines that alienated me from people socially. I imposed those disciplines on myself for multiple reasons, but mood, cognition, and willpower were the main benefits besides hair regrowth at that point, and I believed they were helping my social life, not hurting it, since that was my primary purpose for them, as I concurrently had to do an enormous amount of work for Chenliang, and two separate labs, and the hair growth from the previous time I did those diets was still pretty abundantly on my head, and looked good enough [as long as I wore hats](https://youtu.be/VKoSfmECpx0?si=iqPaLB1gmGQnd3xb). So the appreciation from his group (and him, actually), and the other group, probably is what helped that pubes regrowth (congrats), combined with the diet, but it’s not surprising that that hair gradually fell out, as almost all of my efforts were targeted towards connecting with people, socially, as, despite my serious efforts, through everything humanly possible that could've been advised or asked of me (everything, no matter what "more" or "less" idea popped into your head), I was becoming increasingly more alienated, connected to a yogic trance in nature at that point everyday that I didn't allow to get me hospitalized or disturb my work, and my isolation would remain to be the case until my best friend returned in 2023, who amazingly did not reject my insanity, whatsoever. Hence eyelashes.
 
@@ -581,6 +586,7 @@ My eyelashes started growing back for the first time in summer, 2023, when I'd s
 However, adding this seems to undermine just how severe the injustice we're talking about is.
 
 The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgements, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
+-->
 
 #### Intimacy healing
 
