@@ -193,7 +193,7 @@ With Psychiatrist 3, I only took them due to (a) his recommendation and instruct
 
 They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize.
 
-TO DO: List all my symptoms, e.g., wrinkles, mouth dryness, tooth calcification, constant rightward spinning sensation, tinnitus, severe cognitive impairment, severe anxiety, inability to sleep due to anxiety, memory loss, "greyness" of imaginative and creative ability, severe loss of speech and writing quality, pain, more than a year of persisting torture, etc.
+TO DO: List all my symptoms, e.g., wrinkles, mouth dryness, tooth calcification, constant rightward spinning sensation, tinnitus, severe cognitive impairment, severe anxiety, inability to sleep due to anxiety, memory loss, "greyness" of imaginative and creative ability, severe loss of speech and writing quality, pain, more than a year of persisting torture.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
