@@ -393,8 +393,6 @@ Now some much-needed levity to an intense time period (how do I do this transiti
 
 #### I didn't mention fingernails (fingernails regrowth)
 
-> Chapter is in progress
-
 <!--
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].
 
@@ -494,9 +492,11 @@ In 2016, Bernie Sanders was the first presidential candidate I was old enough to
 
 I wanted to donate to his campaign [early](https://www.facebook.com/share/p/bu8N4jvNp9As7Rs1/), from a link in one of his emails. My mom cautioned me that the email might've been spam because my description sounded too good to be true. He wasn’t a household name yet. She doesn’t think that anymore. We both ended up donating, multiple times. But he was an unlikely figure in any politics, American or otherwise, devoted to principled [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md), e.g. universal healthcare, not politics.
 
+<!--
 The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma’s perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were finally relinquished to the world, joining his up in the Health Care Financing Administration (pronounced "HeCk-FAn").
+-->
 
-But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out, and unlike many bleeding-hearts who’ve copied him since, I’m sincere, and mine is gushing to the floor, with an ancestral main artery that has proved itself strong enough to hold the blood back or translate that heart into a universal language. How to transition into this? Well...
+But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out. My bleeding-heart is gushing to the floor, with an ancestral main artery that has proved itself if anything too strong or capable of translating that heart into a universal language. How to transition into this? Well...
 
 Speaking of the elderly...
 
