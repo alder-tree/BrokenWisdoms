@@ -50,6 +50,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Geriatric unit hospitalization
         - Kids
           - Mobi
+        - Future hair losses
         - Intimacy healing
         - The artificial and synthetic
         - AI
