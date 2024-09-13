@@ -168,13 +168,17 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 My trauma revolves around three psychiatrists.
 
 PSYCHIATRIST 1: "I will taper you off from the benzos. You will be tapered off *before* discharge."
-- He reassured, I'll be weaned off *before* discharge from the hospital.
+- He reassured, I'll be weaned off from the benzos, *before* discharge from the hospital.
 
 PSYCHIATRIST 2: "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 - She came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive. Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.
-- She reassured, I'll be weaned off *right after* discharge from the hospital.
+- She reassured, I'll be weaned off from the benzos, *right after* discharge from the hospital.
 
-PSYCHIATRIST 3: "Benzos can be safely taken for years. Yo uneed to take them. I want to increase the dose. Did you pull your hair out yourself?"
+PSYCHIATRIST 3: "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
+
+TO DO: Elaborate that I argued against the benzos with all 3 psychiatrists.
+
+TO DO: I only kept taking them due to (1) the threat of court order, (2) the mental impairment induced by the drug, (3) their recommendation and instruction, and (4) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood.
 
 TO DO: Elaborate on Psychiatrist 3.
 
