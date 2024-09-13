@@ -195,7 +195,7 @@ With Psychiatrists 1 and 2, I only took them due to the threat of court order.
 
 With Psychiatrist 3, I only took them due to (a) his recommendation and instruction, (b) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, (c) the mental impairment induced by the drug, and (d) insecurity about tapering off by myself, amid the severe physiological dependence.
 
-They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize.
+They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed (preventatively) for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize.
 
 Symptoms from taking the benzos as prescribed included: 
 - [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
