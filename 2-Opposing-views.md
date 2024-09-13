@@ -193,7 +193,21 @@ With Psychiatrist 3, I only took them due to (a) his recommendation and instruct
 
 They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize.
 
-TO DO: List all my symptoms from taking the benzos as prescribed, e.g., wrinkles, mouth dryness, tooth calcification, constant rightward spinning sensation, tinnitus, severe cognitive impairment, severe anxiety, inability to sleep due to anxiety, memory loss, "greyness" of imaginative and creative ability, severe loss of speech and writing quality, pain, more than a year of persisting torture.
+Symptoms from taking the benzos as prescribed included: 
+- [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+- Mouth dryness
+- Tooth calcification, as diagnosed as being due to benos by dental hygienist
+- [Constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/)
+- [Tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/)
+- [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
+- Severe generalized anxiety, previously undiagnosed
+- [Severe social anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)
+- Inability to sleep due to anxiety
+-  [Memory loss](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+- ["Greyness" of imaginative and creative ability](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+- [Severe loss of speech and writing quality](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+- [Severe pain](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/)
+- [More than a year of persisting torture](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
 
 The steak diet, which I began after all of these symptoms and withdrawing from benzos, helped my recovery, as well as, surprisingly, catalyzed my first hair regrowth.
 
