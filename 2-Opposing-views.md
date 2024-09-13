@@ -183,17 +183,15 @@ PSYCHIATRIST 3: "Benzos can be safely taken for years. You need to take them. I 
 
 > TO DO: Elaborate on Psychiatrist 3.
 
-TO DO: Elaborate that I argued against the benzos with all 3 psychiatrists.
+I argued against the benzos with all 3 psychiatrists.
 
-TO DO: List all my symptoms, e.g., wrinkles, mouth dryness, tooth calcification, constant rightward spinning sensation, tinnitus, severe cognitive impairment, severe anxiety, memory loss, "greyness" of imaginative and creative ability, severe loss of speech and writing quality, etc.
+With Psychiatrists 1 AND 2, I only took them due to the threat of court order.
 
-With PSYCHIATRISTS 1 AND 2, I only took them due to the threat of court order.
-
-With PSYCHIATRIST 3, I only took them due to (a) the mental impairment induced by the drug, (b) his recommendation and instruction, (c) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, and (d) insecurity about tapering off by myself, amid the severe physiological dependence that benzos induce.
-
-TODO: Elaborate on what led to the hospitalization.
+With Psychiatrist 3, I only took them due to (a) the mental impairment induced by the drug, (b) his recommendation and instruction, (c) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, and (d) insecurity about tapering off by myself, amid the severe physiological dependence that benzos induce.
 
 They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize.
+
+TO DO: List all my symptoms, e.g., wrinkles, mouth dryness, tooth calcification, constant rightward spinning sensation, tinnitus, severe cognitive impairment, severe anxiety, memory loss, "greyness" of imaginative and creative ability, severe loss of speech and writing quality, etc.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
