@@ -59,7 +59,7 @@ Eczema leads to hair loss leads to depression and worsening psychiatric state…
 
 ### House on May St.
 
-My hair fell out while I lived in *my house on May St.*
+My hair fell out while I rented a room in a *house on May St.*
 
 I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many aesceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease.
 
@@ -71,7 +71,7 @@ The beard had a really small bald patch similar to places on my body where my sk
 
 It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
 
-After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized. It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
+After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
 
 ### Psychiatry at the University of Rochester's Strong Hospital
 
@@ -159,7 +159,7 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 >
 > About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely and standardly known side effect of benzos. Those were almost definitely the medication of his he was referring to.
 >
-> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
+> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
 >
 > Jeremiah is a hobbit, a fellow hobbit.
 > 
@@ -171,29 +171,46 @@ My trauma revolves around three psychiatrists.
 
 **PSYCHIATRIST 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
 
-``He reassured, I'll be weaned off from the benzos, *before* discharge from the hospital.``
+> ``Psychiatrist 1 reassured, I'll be weaned off from the benzos,`` *before* ``discharge from the hospital.``
 
 **PSYCHIATRIST 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 
-She came in on the momentum of her previous post, and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.
-
-Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.
-
-``But she reassured, I'll be weaned off from the benzos, *right after* discharge from the hospital.``
+> ``Psychiatrist 2  came in on the momentum of her previous post, and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.``
+>
+> ``Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.``
+>
+> ``But she reassured, I'll be weaned off from the benzos,`` *right after* ``discharge from the hospital.``
 
 **PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
-> TO DO: Elaborate on Psychiatrist 3.
+> ``I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He didn't believe me or show even the slightest emotion of warmth. If he cared about me in the slightest, he did everything possible to show otherwise. He only believed the benzos were needed. He left no room for argument. He argued down my arguments, argued that benzos could be safely taken for years. At no point would he specify a tapering schedule, and I was begging him.``
+> 
+> ``He asked about my hair loss. He wouldn't believe me the first couple times I answered. He interrogated, rather repeatedly, disbelieving and unconvinced, whether I had pulled the hair out myself. Not only didn't I pull it out myself, but the medical system, the looney system that did, was now making me answer, repeatedly, for whether I was responsible for the literal-crimes they committed.``
+> 
+> ``I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose, as if that would reduce my brain's increasing system-wide downregulation of GABA, rather than worsen its effort to fight the dysregulation. Psychiatrist 3 wanted to increase the dose, as if not realizing that that would start a perpetual race against the brain's downregulation mechanisms.``
 
 I argued against the benzos with all 3 psychiatrists.
 
-With Psychiatrists 1 AND 2, I only took them due to the threat of court order.
+With Psychiatrists 1 and 2, I only took them due to the threat of court order.
 
 With Psychiatrist 3, I only took them due to (a) his recommendation and instruction, (b) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, (c) the mental impairment induced by the drug, and (d) insecurity about tapering off by myself, amid the severe physiological dependence.
 
 They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize.
 
-TO DO: List all my symptoms from taking the benzos as prescribed, e.g., wrinkles, mouth dryness, tooth calcification, constant rightward spinning sensation, tinnitus, severe cognitive impairment, severe anxiety, inability to sleep due to anxiety, memory loss, "greyness" of imaginative and creative ability, severe loss of speech and writing quality, pain, more than a year of persisting torture.
+Symptoms from taking the benzos as prescribed included: 
+- [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
+- [Constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/)
+- [Tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/)
+- Mouth dryness, and tooth calcification, as diagnosed as being due to benos by dental hygienist
+- Severe generalized anxiety, previously undiagnosed
+- [Severe social anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)
+- Inability to sleep due to anxiety
+-  [Memory loss, and "greyness" of imaginative and creative ability](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+- [Severe loss of speech and writing quality](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+- [Severe pain](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/)
+- [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+- [More than a year of persisting torture](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
+- [Scientifically-backed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/) fear of permanent damage
 
 The steak diet, which I began after all of these symptoms and withdrawing from benzos, helped my recovery, as well as, surprisingly, catalyzed my first hair regrowth.
 
@@ -525,6 +542,19 @@ Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed ecze
 -->
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
+
+#### Kids
+
+Let's now regress back to childhood.
+
+Many of the problems that exist in hospitals also exist in public and private education systems. Kids are being put through concentration camps. These environments should be more like summer camps, monasteries, or Hogwarts — filled with nature and healthy food — not Nazi prisons. Literally concentration camps is what our society puts kids through, pretty much by force, as if it's some law of nature that kids must endure a coercive system by the time they're 6, and give the best hours of the day to that system until they're dead, in order to facilitate their development of wisdom and utility to other people (as opposed to stress, bullying, and hurting other people through more such endless cycles of coercive systemic brainwashings and zombie-ism).
+
+Those environments are where we learn that some people are inferior to others, namely, students, to teachers and adults, with potentially permanent life-threatening consequences. And those structures disseminate to the relationships between kids.
+
+> [!NOTE]
+> ### Mobi
+>
+> I met Mobi in the hospitalization between the benzo-one and the geriatric unit one. A couple years later, I learned that Sarah had met Mobi in one of their hospitalizations, too, that he'd even braided Sarah's hair. Mobi was a recurrent inpatient care unit psychiatric recipient. He was 16, clearly intelligent, had a "sober" intelligence and humor, was respectful, kind, and chill. They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of about 14, and he was in there mainly, or perhaps only, for drug problems and addiction. Acclimating to benzos, one's brain becomes deprived of GABA and will crave something, usually drugs, to take the literal neural edge off, to silence those disproportionate Glutamates and other action potentials whose balancing complement, GABA, is downregulated, throughout the brain. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos. 
 
 #### Future hair losses
 
