@@ -167,11 +167,20 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 
 My trauma revolves around three psychiatrists.
 
-The first psychiatrist wasn't bad, a young guy who understood my hesitation about taking benzos, knew I was arguing against using them to the nurses and to him, and reassured me I'd be off them before discharge. We walked together in the hall and he sensed that I was bright. The social lubricant of benzos gave me "flying colors" that I think he sensed were authoritative, about my knowledge of benzos and intelligence. He said I'd be weaned off before the discharge, and that was the schedule. I felt pretty at ease, in the sense that I had the energy to communicate colorfully to him. I was under the impression for a while I would be weaned off from the drugs before discharge. He reassured, I would be weaned off *before* discharge.
+Psychiatrist 1: "I will taper you off from the benzos. You will be tapered off *before* discharge."
+- He reassured, I'll be weaned off *before* discharge from the hospital.
 
-The second psychiatrist, an Asian woman, looked stern and astute, came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive, about the original plan and our preferances. She said the tapering schedule was too fast and the outpatient doctor, the psychiatrist after the hospitalization, would wean me off. Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat, but this time, she gave the reassurance, that I'd be tapered *right after* discharge.
+Psychiatrist 2: "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
+- She came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive. Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.
+- She reassured, I'll be weaned off *right after* discharge from the hospital.
 
-> TO DO: just write that the third psychiatrist didn't taper me, and he wanted to increase the dose. List all my symptoms, summarize that all three were inconsistent, and stress that they didn't ask about the specifics about the "catatonia" they were coercing benzos for and why I couldn't specify it for them, or the other diagnosis.
+Psychiatrist 3: "Benzos can be safely taken for years. Yo uneed to take them. I want to increase the dose. Did you pull your hair out yourself?"
+
+TO DO: Elaborate on Psychiatrist 3.
+
+TO DO: List all my symptoms.
+
+TO DO: Stress that they were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through, couldn't explain it to them because (1) I didn't know the definition of "catatonia" yet, and (2) the trauma of what I went through was too recent to summarize.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
