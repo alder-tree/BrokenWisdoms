@@ -212,8 +212,8 @@ Symptoms from taking the benzos as prescribed included:
 - [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 - [More than a year of persisting torture](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
 - Severe physiological dependence, which benzos cause more so, at least neurologically, than Dupilumab, which also causes/caused a physiological dependence
+- PTSD from all of these symptoms and the recurrence of a doctor-induced perhaps-permanent trauma
 - [Scientifically-backed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/) fear of permanent damage
-- PTSD from all of these symptoms, and the recurrence of a doctor-induced perhaps-permanent trauma
 
 The steak diet, which I began after all of these symptoms and withdrawing from benzos, helped my recovery, as well as, surprisingly, catalyzed my first hair regrowth.
 
