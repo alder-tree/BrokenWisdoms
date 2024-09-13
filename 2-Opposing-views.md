@@ -198,6 +198,10 @@ With Psychiatrist 3, I only took them due to (a) his recommendation and instruct
 They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize. 
 > ``In RGH, they were prescribed due to that false diagnosis of catatonia. The University of Rochester's Strong Hospital wanted to prevent a recurrence — that is, "preventatively" — threatened a court order if I didn't take them, and 3 psychiatrists changed, contradicted, and perpetually extended each other's scheduling for the taper.``
 
+Additionally, the psychiatrists didn't ask about what I went through. They treated "catatonia" and "bipolar mania" as the indubitably exhaustive description. "Catatonia," which is what the benzos were meant to treat, was fully a misdiagnosis. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos.
+
+> ``None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester’s psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about.``
+
 Symptoms from taking the benzos as prescribed included: 
 - [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
 - [Constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/)
