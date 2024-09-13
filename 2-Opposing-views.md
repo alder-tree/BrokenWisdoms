@@ -183,17 +183,17 @@ My trauma revolves around three psychiatrists.
 
 **PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
-> ``I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He didn't believe me or show even the slightest emotion of warmth. If he cared about me in the slightest, he did everything possible to show otherwise. He only believed the benzos were needed. He left no room for argument. He argued down my arguments, argued that benzos could be safely taken for years. At no point would he specify a tapering schedule, and I was begging him.``
+> ``I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He only believed the benzos were needed. He argued that benzos could be safely taken for years. At no point would he specify a tapering schedule, and I was begging him.``
 > 
-> ``He asked about my hair loss. He wouldn't believe me the first couple times I answered. He interrogated, rather repeatedly, disbelieving and unconvinced, whether I had pulled the hair out myself. Not only didn't I pull it out myself, but the medical system, the looney system that did, was now making me answer, repeatedly, for whether I was responsible for the literal-crimes they committed.``
+> ``He asked about my hair loss, whether I had pulled the hair out myself. He wouldn't believe me the first couple times I answered. Not only didn't I pull it out myself, but the medical system, the looney system that did, was now making me answer, repeatedly, for whether I was responsible for the literal-crime they committed.``
 > 
-> ``I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose, as if that would reduce my brain's increasing system-wide downregulation of GABA, rather than worsen its effort to fight the dysregulation. Psychiatrist 3 wanted to increase the dose, as if not realizing that that would start a perpetual race against the brain's downregulation mechanisms.``
+> ``I kept begging him to taper in later sessions, and he thought if I was having all those negative symptoms, that we should increase the dose. Psychiatrist 3 wanted to increase the dose, as if not realizing that that would start a perpetual race against the brain's downregulation mechanisms.``
 
 I argued against the benzos with all 3 psychiatrists.
 
 With Psychiatrists 1 and 2, I only took them due to the threat of court order.
 
-With Psychiatrist 3, I only took them due to (a) his recommendation and instruction, (b) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, (c) the mental impairment induced by the drug, and (d) insecurity about tapering off by myself, amid the severe physiological dependence.
+With Psychiatrist 3, I only took them due to (a) his recommendation and instruction, (b) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticeably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, (c) the mental impairment induced by the drug, and (d) insecurity about tapering off by myself, amid the severe physiological dependence.
 
 Furthermore, they were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize. 
 > ``In RGH, they were prescribed due to that false diagnosis of "catatonia." The University of Rochester's Strong Hospital wanted to prevent a recurrence — that is, "preventatively" — threatened a court order if I didn't take them, and 3 psychiatrists changed, contradicted, and perpetually extended each other's scheduling for the taper.``
@@ -206,7 +206,8 @@ Symptoms from taking the benzos as prescribed included:
 - [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
 - [Constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/)
 - [Tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/)
-- Mouth dryness, and tooth calcification, as diagnosed as being due to benos by dental hygienist
+- Mouth dryness, and tooth calcification, as diagnosed as being due to benzos by dental hygienist
+  - Chunks that looked like tooth were later falling out after the benzos that she diagnosed as decalcification
 - Severe generalized anxiety, previously undiagnosed
 - [Severe social anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)
 - Inability to sleep due to anxiety
@@ -394,6 +395,9 @@ Now some much-needed levity to an intense time period (how do I do this transiti
 
 #### I didn't mention fingernails (fingernails regrowth)
 
+> Chapter is in progress
+
+<!--
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].
 
 > ### $\Huge &#8220;$
@@ -411,7 +415,11 @@ My grandma had long grey hair, down to almost her waist or hips. She curled it u
 
 She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at JCC, that I had her fingernails, perhaps unusual. I also take her eyes, and my mom's eyes. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Also an unusual remark, at an important juncture involving my grandma, that I remember. 
 
+-->
+
 Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+
+Without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads.
 
 #### How my grandma got dementia
 
