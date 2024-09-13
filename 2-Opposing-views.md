@@ -163,7 +163,7 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 >
 > Jeremiah is a hobbit, a fellow hobbit.
 > 
-> I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
+> I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like withdrawing to my hobbit-hole.
 
 ### My trauma
 
