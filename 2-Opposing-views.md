@@ -167,11 +167,11 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 
 My trauma revolves around three psychiatrists.
 
-PSYCHIATRIST 1: "I will taper you off from the benzos. You will be tapered off *before* discharge."
+**PSYCHIATRIST 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
 
 ``He reassured, I'll be weaned off from the benzos, *before* discharge from the hospital.``
 
-PSYCHIATRIST 2: "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
+**PSYCHIATRIST 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 
 She came in on the momentum of her previous post, and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.
 
@@ -179,7 +179,7 @@ Maybe she didn't trust that I would continue with therapy if the physiological a
 
 ``But she reassured, I'll be weaned off from the benzos, *right after* discharge from the hospital.``
 
-PSYCHIATRIST 3: "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
+**PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
 > TO DO: Elaborate on Psychiatrist 3.
 
