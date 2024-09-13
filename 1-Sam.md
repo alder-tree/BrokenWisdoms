@@ -35,7 +35,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Sarah
         - Hudson
         - Jeremiah
-        - Mobi
       - My trauma
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
@@ -49,6 +48,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
           - Medical system diet arguments
         - Ascent of a Jewish old grandpa
         - Geriatric unit hospitalization
+        - Kids
+          - Mobi
         - Hair regrowth
         - Intimacy healing
         - The artificial and synthetic
