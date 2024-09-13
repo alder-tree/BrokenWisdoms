@@ -59,7 +59,7 @@ Eczema leads to hair loss leads to depression and worsening psychiatric state…
 
 ### House on May St.
 
-My hair fell out while I lived in *my house on May St.* (rented at $600/month).
+My hair fell out while I lived in *my house on May St.*
 
 I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many aesceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, daily cold showers, while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease.
 
