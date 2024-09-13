@@ -198,10 +198,9 @@ With Psychiatrist 3, I only took them due to (a) his recommendation and instruct
 They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize.
 
 Symptoms from taking the benzos as prescribed included: 
+- [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
 - [Constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/)
 - [Tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/)
-- [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
-- [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 - Mouth dryness
 - Tooth calcification, as diagnosed as being due to benos by dental hygienist
 - Severe generalized anxiety, previously undiagnosed
@@ -210,6 +209,7 @@ Symptoms from taking the benzos as prescribed included:
 -  [Memory loss, and "greyness" of imaginative and creative ability](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
 - [Severe loss of speech and writing quality](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
 - [Severe pain](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/)
+- [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 - [More than a year of persisting torture](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
 - [Scientifically-backed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/) fear of permanent damage
 
