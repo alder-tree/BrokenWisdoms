@@ -171,23 +171,27 @@ My trauma revolves around three psychiatrists.
 
 **PSYCHIATRIST 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
 
-``He reassured, I'll be weaned off from the benzos, *before* discharge from the hospital.``
+> ``Psychiatrist 1 reassured, I'll be weaned off from the benzos,`` *before* ``discharge from the hospital.``
 
 **PSYCHIATRIST 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 
-She came in on the momentum of her previous post, and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.
-
-Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.
-
-``But she reassured, I'll be weaned off from the benzos, *right after* discharge from the hospital.``
+> ``Psychiatrist 2  came in on the momentum of her previous post, and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.``
+>
+> ``Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.``
+>
+> ``But she reassured, I'll be weaned off from the benzos,`` *right after* ``discharge from the hospital.``
 
 **PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
-> TO DO: Elaborate on Psychiatrist 3.
+> ``I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He didn't believe me or show even the slightest emotion of warmth. If he cared about me in the slightest, he did everything possible to show otherwise. He only believed the benzos were needed. He left no room for argument. He argued down my arguments, argued that benzos could be safely taken for years. At no point would he specify a tapering schedule, and I was begging him.``
+> 
+> ``He asked about my hair loss. He wouldn't believe me the first couple times I answered. He interrogated, rather repeatedly, disbelieving and unconvinced, whether I had pulled the hair out myself. Not only didn't I pull it out myself, but the medical system, the looney system that did, was now making me answer, repeatedly, for whether I was responsible for the literal-crimes they committed.``
+> 
+> ``I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose, as if that would reduce my brain's increasing system-wide downregulation of GABA, rather than worsen its effort to fight the dysregulation. Psychiatrist 3 wanted to increase the dose, as if not realizing that that would start a perpetual race against the brain's downregulation mechanisms.``
 
 I argued against the benzos with all 3 psychiatrists.
 
-With Psychiatrists 1 AND 2, I only took them due to the threat of court order.
+With Psychiatrists 1 and 2, I only took them due to the threat of court order.
 
 With Psychiatrist 3, I only took them due to (a) his recommendation and instruction, (b) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, (c) the mental impairment induced by the drug, and (d) insecurity about tapering off by myself, amid the severe physiological dependence.
 
