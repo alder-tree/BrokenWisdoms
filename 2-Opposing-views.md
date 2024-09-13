@@ -198,12 +198,12 @@ With Psychiatrist 3, I only took them due to (a) his recommendation and instruct
 They were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize.
 
 Symptoms from taking the benzos as prescribed included: 
-- [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
-- Mouth dryness
-- Tooth calcification, as diagnosed as being due to benos by dental hygienist
 - [Constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/)
 - [Tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/)
 - [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
+- [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+- Mouth dryness
+- Tooth calcification, as diagnosed as being due to benos by dental hygienist
 - Severe generalized anxiety, previously undiagnosed
 - [Severe social anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)
 - Inability to sleep due to anxiety
