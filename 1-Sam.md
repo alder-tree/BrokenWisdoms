@@ -40,7 +40,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
-      - More Seriously
+      - Aside
         - I didn't mention fingernails (fingernails regrowth)
         - How my grandma got dementia
         - How my grandpa died
@@ -50,7 +50,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Geriatric unit hospitalization
         - Kids
           - Mobi
-        - Hair regrowth
         - Intimacy healing
         - The artificial and synthetic
         - AI
