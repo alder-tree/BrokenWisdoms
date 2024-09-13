@@ -200,7 +200,7 @@ Furthermore, they were treating a misdiagnosis, "catatonia" — that's what the 
 
 Additionally, the psychiatrists didn't ask about what I went through. They treated "catatonia" and "bipolar mania" as the indubitably exhaustive description. "Catatonia," which is what the benzos were meant to treat, was fully a misdiagnosis. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos. None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester’s psychiatrists.
 
-Due to their practices, I had to take them for >6 months. 
+Due to their practices, I was on benzos for >6 months. 
 
 Symptoms from taking the benzos as prescribed included: 
 - [Severe cognitive impairment](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/)
