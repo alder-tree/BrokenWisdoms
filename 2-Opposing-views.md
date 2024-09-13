@@ -159,11 +159,16 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 >
 > About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely and standardly known side effect of benzos. Those were almost definitely the medication of his he was referring to.
 >
-> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my [next](#comedic-aside-sexier-moments-during-chenliang-tenure) hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
+> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following a multi-year benzo-induced torture-fest, where I was also physically coerced by the police, for having a quiet, spiritually-guided breakdown in the grass of my apartment complex.
 >
 > Jeremiah is a hobbit, a fellow hobbit.
 > 
 > I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
+
+> [!NOTE]
+> ### Mobi
+>
+> I met Mobi in my next hospitalization, a kid who'd done nothing wrong except succumb to drug withdrawal. A couple years later, I learned that Sarah had met Mobi in one of their hospitalizations, too, that he'd even braided Sarah's hair. We were all connected. Mobi was a recurrent inpatient care unit psychiatric recipient. He was 16, clearly intelligent, had a "sober" intelligence and humor, was respectful, kind, and chill. They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of about 14, and he was in there mainly, or perhaps only, for drug problems and addiction. Acclimating to benzos, one's brain becomes deprived of GABA and will crave something, usually drugs, to take the literal neural edge off, to silence those disproportionate Glutamates and other action potentials whose balancing complement, GABA, is downregulated, throughout the brain. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos. 
 
 ### My trauma
 
