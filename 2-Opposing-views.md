@@ -390,6 +390,26 @@ As Niaz said, "I don't know what he was thinking."
 
 ### Aside
 
+#### Hair regrowth
+
+Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare/unprecedented. 
+
+I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmon as well).
+
+I was eating one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, Most of my income was going towards recovering from the benzo brain damage — and it caused hair regrowth. 
+
+In the hospitalization after the Sarah-one, [Mobi](#mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
+
+I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
+
+[In the next hospitalization, in the geriatric unit](#geriatric-unit-hospitalization), there was another guy my age. I sat with him every day towards my last days there at the window. He and I talked. We were talking about deep things, really deep things. I told him about my self consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me.
+
+But, in case the detail was missed ("since chunks of it were falling out again in that geriatric unit"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
+
+My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization).
+
+And, by the way, that sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Full head hair regrowth in alopecia universalis is nearly unprecedented. Actually, even more medically rare/unprecedented: full head hair regrowth in alopecia universalis with comorbid eczema.
+
 #### I didn't mention fingernails (fingernails regrowth)
 
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].
