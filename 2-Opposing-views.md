@@ -396,7 +396,7 @@ Full head hair regrowth in alopecia universalis, especially with comorbid eczema
 
 I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmon as well).
 
-I was eating one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, Most of my income was going towards recovering from the benzo brain damage — and it caused hair regrowth. 
+I was eating one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, organic black pepper and salt, and water. Most of my income was going towards recovering from the benzo brain damage — and it caused hair regrowth. 
 
 In the hospitalization after the Sarah-one, [Mobi](#mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
 
