@@ -564,10 +564,7 @@ Those environments are where we learn that some people are inferior to others, n
 >
 > I met Mobi in the hospitalization between the benzo-one and the geriatric unit one. A couple years later, I learned that Sarah had met Mobi in one of their hospitalizations, too, that he'd even braided Sarah's hair. Mobi was a recurrent inpatient care unit psychiatric recipient. He was 16, clearly intelligent, had a "sober" intelligence and humor, was respectful, kind, and chill. They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of about 14, and he was in there mainly, or perhaps only, for drug problems and addiction. Acclimating to benzos, one's brain becomes deprived of GABA and will crave something, usually drugs, to take the literal neural edge off, to silence those disproportionate Glutamates and other action potentials whose balancing complement, GABA, is downregulated, throughout the brain. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos. 
 
-<!--
 #### Future hair losses
-
-> Chapter is in progress
 
 My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
 - That hair grew back already in the period when Chenliang’s group was reasonably impressed with me (which never concluded, I don't think), though I was working too hard and exercising too many disciplines that alienated me from people socially. I imposed those disciplines on myself for multiple reasons, but mood, cognition, and willpower were the main benefits besides hair regrowth at that point, and I believed they were helping my social life, not hurting it, since that was my primary purpose for them, as I concurrently had to do an enormous amount of work for Chenliang, and two separate labs, and the hair growth from the previous time I did those diets was still pretty abundantly on my head, and looked good enough [as long as I wore hats](https://youtu.be/VKoSfmECpx0?si=iqPaLB1gmGQnd3xb). So the appreciation from his group (and him, actually), and the other group, probably is what helped that pubes regrowth (congrats), combined with the diet, but it’s not surprising that that hair gradually fell out, as almost all of my efforts were targeted towards connecting with people, socially, as, despite my serious efforts, through everything humanly possible that could've been advised or asked of me (everything, no matter what "more" or "less" idea popped into your head), I was becoming increasingly more alienated, connected to a yogic trance in nature at that point everyday that I didn't allow to get me hospitalized or disturb my work, and my isolation would remain to be the case until my best friend returned in 2023, who amazingly did not reject my insanity, whatsoever. Hence eyelashes.
@@ -577,7 +574,6 @@ My eyelashes started growing back for the first time in summer, 2023, when I'd s
 However, adding this seems to undermine just how severe the injustice we're talking about is.
 
 The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgements, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
--->
 
 #### Intimacy healing
 
