@@ -393,25 +393,18 @@ Now some much-needed levity to an intense time period (how do I do this transiti
 
 #### I didn't mention fingernails (fingernails regrowth)
 
-<!--
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].
 
 > ### $\Huge &#8220;$
 > Moscow was bombed every day, sometimes multiple times a day. 500 airplanes bombed the city in one day. Not only bombs, but also a lot of lighters were thrown from the airplanes. The alarm of the air raid required everyone to step down to the underground [bomb shelters], and I went there too. But if the air raid came at the time of our work shift, we, all working at the armory children [factory of defense], climbed on the roof. Our responsibility was to take the hot lighters and throw them off the roof, to prevent a fire.
 > ### $\Huge &#8221;$
 > &ensp;&ensp; - Translated by my mom from an interview with my grandma in a draft of an essay my mom wrote for MCC, in October, 2000. Brackets denote additions by my mom.
->
-> TO DO: Add the whole interview.
->
-> Also, the voice interview with my grandpa.
 
 My grandma was about 24 when she and my grandpa arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principle of a school and continued teaching.
 
 My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.
 
 She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at JCC, that I had her fingernails, perhaps unusual. I also take her eyes, and my mom's eyes. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Also an unusual remark, at an important juncture involving my grandma, that I remember. 
-
--->
 
 Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
