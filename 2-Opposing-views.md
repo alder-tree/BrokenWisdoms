@@ -195,7 +195,7 @@ They were treating a misdiagnosis, "catatonia" — that's what the benzos were p
 
 TO DO: List all my symptoms from taking the benzos as prescribed, e.g., wrinkles, mouth dryness, tooth calcification, constant rightward spinning sensation, tinnitus, severe cognitive impairment, severe anxiety, inability to sleep due to anxiety, memory loss, "greyness" of imaginative and creative ability, severe loss of speech and writing quality, pain, more than a year of persisting torture.
 
-The steak diet, which I began after all of these symptoms and withdrawing from benzos, helped my recovery.
+The steak diet, which I began after all of these symptoms and withdrawing from benzos, helped my recovery, as well as, surprisingly, catalyzed my first hair regrowth.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
