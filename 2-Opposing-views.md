@@ -163,7 +163,7 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 >
 > Jeremiah is a hobbit, a fellow hobbit. He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. I look like Gollum, but I'm not.
 > 
-> I should invite him to grab a Hobbiton-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home.
+> I should invite him to grab a Bree-type beer at Jeremiah's Tavern in Rochester with me, but I'd rather not because, amid processing all this trauma, there's no place like home/The Shire/Grey Havens.
 
 ### My trauma
 
