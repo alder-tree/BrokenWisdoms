@@ -185,7 +185,7 @@ My trauma revolves around three psychiatrists.
 
 > ``I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He only believed the benzos were needed. He argued that benzos could be safely taken for years. At no point for the next 5 months would he specify a tapering schedule, and I was begging him.``
 > 
-> ``He asked about my hair loss, whether I had pulled the hair out myself. He wouldn't believe me the first couple times I answered. Not only didn't I pull it out myself, but the medical system, the looney system that did, was now making me answer, repeatedly, for whether I was responsible for the literal-crime they committed.``
+> ``He asked about my hair loss, whether I had pulled the hair out myself. He wouldn't believe me the first couple times I answered. Not only didn't I pull it out myself, but the medical system did, the one that was now making me answer repeatedly whether I did.``
 > 
 > ``I kept begging him to taper in later sessions as well, and he thought if I was having all those negative symptoms, that we should increase the dose. Psychiatrist 3 wanted to increase the dose, as if not realizing that that would start a perpetual race against the brain's downregulation mechanisms.``
 
