@@ -207,7 +207,7 @@ Symptoms from taking the benzos as prescribed included:
 - [Constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/)
 - [Tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/)
 - Mouth dryness, and tooth calcification, as diagnosed as being due to benzos by dental hygienist
-  - Chunks that looked like tooth were later falling out after the benzos that she diagnosed as decalcification
+  - Chunks that looked like tooth were falling out after the benzos that she diagnosed as decalcification
 - Severe generalized anxiety, previously undiagnosed
 - [Severe social anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)
 - Inability to sleep due to anxiety
