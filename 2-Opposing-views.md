@@ -203,8 +203,7 @@ Symptoms from taking the benzos as prescribed included:
 - Severe generalized anxiety, previously undiagnosed
 - [Severe social anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)
 - Inability to sleep due to anxiety
--  [Memory loss](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
-- ["Greyness" of imaginative and creative ability](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+-  [Memory loss, and "greyness" of imaginative and creative ability](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
 - [Severe loss of speech and writing quality](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
 - [Severe pain](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/)
 - [More than a year of persisting torture](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
