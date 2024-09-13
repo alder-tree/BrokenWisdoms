@@ -55,7 +55,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - AI
       - Niaz Abdolrahim (okay, some more not-tragedy)
       - Chris Kanan
-      - Future hair losses
       - Tom Howard
       - Charles Venuto
       - Recap
@@ -117,4 +116,3 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - (2) Proposition 3.
       - Conclusion
       - Dialogue of the Congress 2
-
