@@ -187,7 +187,7 @@ My trauma revolves around three psychiatrists.
 > 
 > ``He asked about my hair loss, whether I had pulled the hair out myself. He wouldn't believe me the first couple times I answered. Not only didn't I pull it out myself, but the medical system did, the one that was now making me answer repeatedly whether I did.``
 > 
-> ``I kept begging him to taper in later sessions as well, and he thought if I was having all those negative symptoms, that we should increase the dose, as if not realizing that that would start a perpetual race against the brain's downregulation mechanisms. Psychiatrist 3 wanted to increase the dose.``
+> ``I kept begging him to taper in later sessions as well, and he said if I was having all those negative symptoms, that we should increase the dose. That would've started a perpetual race against the brain's downregulation mechanisms. Psychiatrist 3 wanted to increase the dose.``
 
 I argued against the benzos with all 3 psychiatrists.
 
