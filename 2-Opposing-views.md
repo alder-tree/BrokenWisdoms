@@ -496,7 +496,7 @@ And 2016 has the number 16, that, besides being the upcoming day of my grandpa�
 
 My grandma’s numerical timing of when she died is a proof symbol in my opinion on the perception and characterized message of my grandpa’s death involving the heart doctor seeming synchronistic: that the healthcare system needs reform. And the ascent of Bernie, whose name slantly rhymes with "Yury," immediately after, means a lot to me about the need for reforming healthcare systems, not just in governance, but inside the systems themselves, from elderly care, to prescription habits, to the dietary and environment principles. 
 
-I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may symbolically point to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
+I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
 
 #### Ascent of a Jewish old grandpa
 
