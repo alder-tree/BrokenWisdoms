@@ -408,7 +408,7 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization).
 
-And, by the way, that sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Full head hair regrowth in alopecia universalis is nearly unprecedented. Actually, even more medically rare/unprecedented: full head hair regrowth in alopecia universalis with comorbid eczema.
+That sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Even more medically rare/unprecedented: full head hair regrowth in alopecia universalis with comorbid eczema.
 
 #### I didn't mention fingernails (fingernails regrowth)
 
