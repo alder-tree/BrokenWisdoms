@@ -65,7 +65,7 @@ I was working really hard in that house, developing my long-term memory research
 
 In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there.
 
-The meditation and disciplines helped to reduce stress and anxiety.
+The meditation and disciplines helped to reduce stress and anxiety, as I continued a heavy workload from the University of Rochester, something I had prior to my PhD years, also.
 
 I also grew out a full beard and full mustache in those first months I lived in that May St. house, based on some intuition. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) at that house and encouraged me to shave it, some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
 
