@@ -175,7 +175,7 @@ My trauma revolves around three psychiatrists.
 
 **PSYCHIATRIST 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 
-> ``Psychiatrist 2  came in on the momentum of her previous post, and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.``
+> ``Psychiatrist 2  came in on the momentum of her previous post, and changed the schedule (to replace him), standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.``
 >
 > ``Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.``
 >
