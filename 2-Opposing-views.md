@@ -171,7 +171,7 @@ The first psychiatrist wasn't bad, a young guy who understood my hesitation abou
 
 The second psychiatrist, an Asian woman, looked stern and astute, came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive, about the original plan and our preferances. She said the tapering schedule was too fast and the outpatient doctor, the psychiatrist after the hospitalization, would wean me off. Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat, but this time, she gave the reassurance, that I'd be tapered *right after* discharge.
 
-> TO DO: just write that the third psychiatrist didn't, list all my symptoms, summarize that all three were inconsistent, and stress that they didn't ask about the specifics about the "catatonia" they were coercing benzos for and why I couldn't specify it for them, or the other diagnosis.
+> TO DO: just write that the third psychiatrist didn't taper me, and he wanted to increase the dose. List all my symptoms, summarize that all three were inconsistent, and stress that they didn't ask about the specifics about the "catatonia" they were coercing benzos for and why I couldn't specify it for them, or the other diagnosis.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
