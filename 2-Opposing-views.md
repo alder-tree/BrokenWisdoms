@@ -156,7 +156,7 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 >
 > That was also the trip where I was complaining [my hair was too long.](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/)
 >
-> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall my cousin was even prescribed an opioid, besides Sudafed.
+> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
 >
 > About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely and standardly known side effect of benzos. Those were almost definitely the medication of his he was referring to.
 >
