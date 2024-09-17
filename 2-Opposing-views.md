@@ -222,6 +222,8 @@ Symptoms from taking the benzos as prescribed included:
 
 I tried to kill myself, and my family took the helium tank away.
 
+A deeper summary of my benzo trauma can be found [here](https://github.com/animal-tree/BrokenWisdoms-TheReturnofNort/blob/main/2-Opposing-views.md#clicking-their-healing-pens-three-times).
+
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
 <p align="center">
