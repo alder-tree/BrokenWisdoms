@@ -1,6 +1,6 @@
 # Table of Contents
 
-- <a href='/1)%20Sam/'>**Sam**</a>
+- [**Sam**](./)
   - Cover Page
   - Prologue
     - Dialogue of the Congress 1
@@ -32,10 +32,10 @@
         - Immigration
       - Charles Venuto
     - Part 4 (University psychiatric ward janitor, University-hospital child and adolescent psychiatrists, University-hospital police officers)
-      - Henry Kautz 
+      - Henry Kautz <!--(Limitations of Western philosophy)-->
         - I Ching, and Losing Faith in Me
         - Fall, 2018 Semester, and the Dead Marshes
-      - Crisis
+      - C<!--Psychosis c-->risis
           - Tao as the Optimization of a Differentiable Universe
           - Wind
           - Rochester General Hospital (RGH)
